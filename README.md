@@ -1,7 +1,7 @@
 # Arabic-Entity-named-recognition-Tool-using-a-word2vec-pretrained-model-and-LSTM
 
 * This project was created by [Aya ](https://github.com/Aya-Ai-2022),[Gehad ](https://github.com/Gehad-16 ) and [Rana](https://github.com/20180104Rana)
-Introduction
+
 * This project aims to develop an Arabic Entity named recognition Tool based on a deep learning architecture combining a word2vec pretrained model and a Long Short-Term Memory (LSTM) neural network . 
 * The objective of this tool is to automatically identify and classify named entities such as persons, organizations or locations in Arabic texts.
 
